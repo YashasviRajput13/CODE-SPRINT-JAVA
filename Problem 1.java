@@ -1,7 +1,7 @@
 //Sum of n natural number
 
 import java.util.*;
-class solution{
+class solution1{
     public static int findSum(int n){
         int sum = 0;
         for(int i=1; i<=n; i++){
