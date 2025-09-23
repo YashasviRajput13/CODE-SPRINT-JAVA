@@ -5,13 +5,13 @@ import java.util.Scanner;
 class Problem9 {
   public static void main(String[] args) {
     int n1,n2;
-    Scanner scn = new Scanner(System.in);
+       try (Scanner sc = new Scanner(System.in)) {
+        System.out.print("Enter first number: ");
+        n1 = sc.nextInt();
 
-    System.out.print("Enter first number: ");
-    n1 = scn.nextInt();
-
-    System.out.print("Enter second number: ");
-    n2 = scn.nextInt();
+        System.out.print("Enter second number: ");
+        n2 = sc.nextInt();
+    }
 
     int gcd = findGCD(n1, n2);
     int lcm = (n1 * n2) / gcd;
