@@ -1,29 +1,87 @@
-# 🎯 Java Coding Solutions Portfolio
+# 🌱 Java Learning Journey
 
-## 👨‍💻 About This Repository
-A comprehensive collection of Java solutions for coding problems, algorithm implementations, and data structure exercises.
+> *"Growth is a continuous process, not a destination."*
 
-## 📈 Progress Tracker
-![Progress](https://progress-bar.dev/75/?width=300&title=Problems+Solved)
-**75% Complete** (75/100 problems)
+## 👋 Welcome to My Coding Progress
+This repository documents my ongoing journey of learning Java and improving my problem-solving skills through consistent practice and building projects.
 
-## 🏆 Problem Categories
+## 📈 **Current Focus**
 
-| Category | Problems Solved | Difficulty |
-|----------|----------------|------------|
-| **Data Structures** | 25 | 🟢🟡🔴 |
-| **Algorithms** | 20 | 🟢🟡 |
-| **LeetCode** | 15 | 🟡🔴 |
-| **OOP Concepts** | 15 | 🟢 |
+### 🎯 **What I'm Building Right Now**
+- Implementing core data structures from scratch
+- Solving algorithm challenges daily
+- Improving code quality and best practices
+- Learning design patterns and architecture
 
-## 💡 Featured Solutions
-- **Two Sum** - Multiple approaches with analysis
-- **Binary Tree Traversal** - All traversal methods
-- **Sorting Algorithms** - 6 different implementations
-- **Dynamic Programming** - Classic problems solved
+### 🌟 **Recent Milestones**
+- Started working with collections framework
+- Completed basic algorithm patterns
+- Building first full-stack applications
+- Contributing to open source projects
 
-## 🚀 How to Use
-```bash
-# Compile and run any solution
-javac ProblemName.java
-java ProblemName
+## 🛠️ **Technologies I'm Exploring**
+
+![Java](https://img.shields.io/badge/Java-Active%20Learning-orange?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Getting%20Started-green?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Daily%20Practice-blue?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-Learning%20Basics-yellow?style=for-the-badge)
+
+## 📚 **Learning Path**
+
+### 🔄 **In Progress**
+- Advanced data structures implementation
+- REST API development with Spring Boot
+- Database integration and optimization
+- Testing strategies and best practices
+
+### 📅 **Coming Soon**
+- Microservices architecture
+- Cloud deployment
+- Performance optimization
+- System design concepts
+
+## 💡 **What I'm Learning This Week**
+
+**Current Focus Areas:**
+- Object-oriented design principles
+- Exception handling strategies
+- Code readability and documentation
+- Version control with Git
+
+**Skills in Development:**
+- Problem decomposition
+- Multiple solution approaches
+- Debugging techniques
+- Collaborative coding
+
+## 🏗️ **Project Evolution**
+
+### Phase 1: Foundation
+- Basic syntax mastery
+- Simple problem-solving
+- Understanding core concepts
+
+### Phase 2: Application  
+- Building functional applications
+- Implementing complex logic
+- Working with external APIs
+
+### Phase 3: Mastery
+- Advanced architecture
+- Optimization techniques
+- Production-ready code
+
+## 📊 **My Approach**
+
+### 🎯 **Learning Philosophy**
+- **Consistency over intensity** - Daily practice matters
+- **Understanding over memorization** - Focus on concepts
+- **Progress over perfection** - Embrace the learning curve
+
+### 🔄 **Development Process**
+1. **Learn** - Study concepts and patterns
+2. **Implement** - Code solutions and projects
+3. **Reflect** - Review and improve approaches
+4. **Share** - Document and discuss learnings
+
+## 🎨 **Repository Structure**
