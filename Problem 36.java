@@ -12,6 +12,7 @@ import java.util.Scanner;
         } else {
             System.out.println("The bracket sequence is not balanced.");
         }
+        scanner.close();
     }
 
     public static boolean isBalanced(String str) {
