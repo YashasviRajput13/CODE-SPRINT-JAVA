@@ -1,7 +1,5 @@
 //To Count Words in a String
-
 import java.util.Scanner;
-
 class problem44{
     public static void main(String[] args){
         System.out.println("Enter the String : ");
@@ -12,7 +10,7 @@ class problem44{
             if((s.charAt(i)==' ') && (s.charAt(i+1)!=' ')){
                 count++;
             }   
-            
+            sc.close();
         }
         System.out.println("Number of words: " + count);    
     }

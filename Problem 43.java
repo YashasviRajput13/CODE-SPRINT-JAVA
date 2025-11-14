@@ -1,6 +1,5 @@
 // To Count Occurrences of a Character in a String
 
-import java.util.*;
 
 class problem43{
     public static void main(String[] args){
